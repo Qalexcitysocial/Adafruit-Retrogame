@@ -1,4 +1,4 @@
-Adafruit-Retrogame
+Adafruit-Retrogame Customize version for GPIO Joystick and Buttons.
 ==================
 
 
