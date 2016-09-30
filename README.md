@@ -1,7 +1,10 @@
 Adafruit-Retrogame Customize version for GPIO Joystick and Buttons.
 ==================
+````
+There to options to set up the players with retrogame.c just change the GPIO in your machine or on the file, and you will can manage the joystick and buttons
+if you have 2 joysticks you just need to copy the 2 players config file, and paste on retrogame.c, you need to becareful that the configuration from GPIO are the same as at the file.
 
-
+````
 
 This file is a bit more complete from the original Adafruit, you only need to follow the instructions.
 
